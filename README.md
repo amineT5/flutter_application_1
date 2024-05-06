@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project.(APP 1 2 3 4 5 AND 6 in LIB folder !!)
 
 ## Getting Started
 
